@@ -7,11 +7,12 @@ body {
     text-align: center;
 }
 
-/* === Bannière en haut === */
+/* === En-tête (bannière) avec fond noir === */
 .masthead {
-    background: url('../assets/img/home-bg.jpg') center/cover no-repeat;
-    color: white;
+    background-color: black; /* Fond noir */
+    color: white; /* Texte en blanc */
     padding: 50px 20px;
+    text-align: center;
 }
 
 /* === Barre de navigation === */
