@@ -70,7 +70,7 @@ body {
 }
 
 .plaquette-img {
-    width: 80%; /* Ajuste la taille de l'image */
+    width: 70%; /* Ajuste la taille de l'image */
     max-width: 1000px; /* Largeur maximale */
     height: auto;
     border-radius: 10px; /* Arrondi des bords */
